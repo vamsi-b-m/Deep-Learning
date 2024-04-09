@@ -1,0 +1,11 @@
+1. Load in the data ( X and Y ) - may involve transforming data
+2. Instantiate the model
+3. Train ("fit") the model
+4. Evaluate the model
+
+
+for 1 input ->  y' = mx + b (or ax + b)
+for multiple inputs ->  y' = w^T * x + b
+
+
+ 
